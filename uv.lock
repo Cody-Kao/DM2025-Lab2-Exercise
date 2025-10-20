@@ -1,6 +1,6 @@
 version = 1
 revision = 3
-requires-python = "==3.11"
+requires-python = "==3.11.0"
 
 [[package]]
 name = "absl-py"
@@ -585,6 +585,7 @@ dependencies = [
     { name = "nltk" },
     { name = "numpy" },
     { name = "ollama" },
+    { name = "opentelemetry-sdk" },
     { name = "pandas" },
     { name = "plotly" },
     { name = "pymupdf" },
@@ -614,6 +615,7 @@ requires-dist = [
     { name = "nltk", specifier = "==3.9.1" },
     { name = "numpy", specifier = "==1.26.4" },
     { name = "ollama", specifier = "==0.5.3" },
+    { name = "opentelemetry-sdk", specifier = ">=1.37.0" },
     { name = "pandas", specifier = "==2.3.2" },
     { name = "plotly", specifier = "==6.3.0" },
     { name = "pymupdf", specifier = "==1.26.4" },
