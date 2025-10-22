@@ -1,32 +1,14 @@
-# LECTURE ANALYSIS: Data Sets
-## Video Segment: 110:58 - 114:58
+# LECTURE ANALYSIS: Information Theory and Database Design
+## Video Segment: 72:00 - 75:00
 
 [SLIDE DESCRIPTION]
-The slide is titled "Data Sets". It defines data sets as a collection of data organized in certain formats. It then categorizes data sets into two types: Structured Data Sets and Unstructured Data Sets. Structured data sets are described as organized in clear, predictable structures, often in rows and columns. Unstructured data sets are described as more complex and varied, usually derived from human-generated content like text, images, and videos.
+A timeline showing the evolution of information theory and database concepts, starting from 1914 with "Great Depression" and moving through "Information Theory (by Shannon)", "Univac I", "Programmed Record Managers", and "On-Line Network Databases" up to 1970.
 
-[TRANSCRIPT - 110:58]
-So the next one we want to talking about the data set. We have different type of data set. You might heard about the term called structured data or unstructured data. Structured data is you know exactly the meaning about the row and column. Unstructured data is they will change. Sometimes you don't really know how to interpret them. Currently that the human generated content such as image, text, video, we consider them as unstructured data. Luckily with this AI thing and right now text, image, video already can be converting into structured format, but you still need to be able to know once we convert are they meaningful or not.
-
-[TRANSCRIPT - 111:58]
-So we have different kind of characteristic about our data dimension we mentioned before. And then right here talking about another term called sparsity. Sparsity comes from a keyword called sparse. Sparse means very few. Like what we say that if you have the record in e-commerce store, like in Amazon. Your data is sparse in that data record. Because they have millions of the book. But then you probably only buy 10 books before. So make your data in the million of then become very sparse. So data are sparse. And then sometimes in certain place, we will also talking about the resolution. And that part about sparsity, how to solving them, how to do the resolution, we will talking about that later in some of the courses, some of them will be in classification, some of them will be in the text mining.
+[TRANSCRIPT - 72:01]
+People start talking about how should I protect and in the end they become different information theory. A lot of information, for example, take another thing, database. Where the database come from? Why the database design in this one and that and that? Actually, they also have some reason. Maybe that reason go back to the Great Depression in around 1940. People actually do not know the current state and make the wrong judgment. That is history, that trauma lead certain thing. Allow people to thinking about, yes, that is how I need to improve. Most of the data you try to process also have a context like that way. So when you try to deal with the data, you have to thinking about that. So for example, right here, we also talking about in the database course, I usually talking about people. Univac people actually have the magnetic tape. So right now you have the disk and but before it's utilized punch card. And why they need to talking about magnetic tape? Because it was needed. Why they needed? US census bureau needed. Why? Because they need to do census for the United States. Why they need to do that? Because of the war. So many people die. How do this country's economy being rebuilt when all the men was dying in the war field? When they only have the woman in their house, is anything we need to change? So then if you can combine them, they will make sense. But if you isolate them, from each of them become data, then you will find out that you probably cannot be better than GPT because GPT know a lot more than you.
 
 [SLIDE DESCRIPTION]
-The slide is titled "Characteristics of Data Sets". It lists three characteristics: Dimensionality, Sparsity, and Resolution. Under Sparsity, it notes "Only presence counts" and "Patterns depend on the scale". A speech bubble with "Later" is drawn next to Sparsity.
+A slide titled "Class Lottery" with a QR code for "Distance Learning Students (Valid for 3 minutes only)".
 
-[SLIDE DESCRIPTION]
-The slide is titled "Types of Data Sets". It lists three types: Data Matrix, Document Data, and Transaction Data.
-
-[TRANSCRIPT - 112:58]
-So we want to talk about different type of the data set. We have the data matrix, document data, transaction data. So data matrix look like this way. If your data can be convert into meaningful number, they can become data metric. Most of the data are in numerical attribute and then we allow them to do the ratio operation. To make sure all the value inside need to become the ratio data. If it's not, then right here they need to be ratio data.
-
-[SLIDE DESCRIPTION]
-The slide is titled "Data Matrix". It states that a data matrix is applicable if each object has the same fixed set of numeric attributes. A table is shown with columns for 'Price', 'Sells', '# Reviews', and '# Readers', and rows for 'Book 1' through 'Book 5'.
-
-[TRANSCRIPT - 113:48]
-Okay. And the document data is a part that we were talking about later because before 2013, this is before 2013. And the people actually utilize document data in a vector form. Right here, they select important keyword in the document. And then after that, for every document, you utilize those important keyword, we got some number, occurrence of the number for that keyword right there. We generate a something called term vector. So each one of them are become vector. So why vector? Because in computer science, vector is the easiest way for us to operate. We convert them to vector. So in other word, every number right here are become ratio data.
-
-[SLIDE DESCRIPTION]
-The slide is titled "Document Data". It explains that usually unstructured and textual, each document can be converted as a term vector. The value of each component is the number of times the corresponding term in the document appears. A table shows 'Document 1', 'Document 2', and 'Document 3' with columns representing terms like 'Learn', 'Teach', 'Data', 'Mining', 'AI', 'Python', 'R', 'Dataset'. The values in the table represent the count of each term in each document. A note indicates "Before 2013" with a handwritten "B" next to it. An arrow points to the table with the label "Vector" and "Vector ratio".
-
-[TRANSCRIPT - 114:44]
-But that is way we try to working on that. Before 2013. After 2013, how we try to do that? We were talking about that that in the text mining part. So maybe three weeks later.
+[TRANSCRIPT - 74:00]
+Okay, so here is a class lottery. So when you go to the class lottery right there, and then my answer is... The answer is wars. Just talking about wars. So go to if you are class participation, go to this class model. It's been asked. It's open up. It's just refresh. And that's the class lottery. The answer is wars. The QR code only valid for three minutes. If there's any student go to this QR code, the QR code only valid for three minutes. Answer is wars. Okay, so then, uh, if you finish the class one, you can go to this distance learning one for today. Uh, if you participate too, you mean you got two chance. You are allowed to do distance learning student. You are allowed to...
